@@ -1,7 +1,7 @@
 {
 	"compilerOptions": {
 		"module": "commonjs",
-		"target": "es5",
+		"target": "es6",
 		"incremental": true,
 		"outDir": "dist/",
 		"strict": true,
@@ -9,6 +9,7 @@
 		"rootDir": "src/",
 	},
 	"exclude": [
-		"node_modules"
+		"node_modules/",
+		"dist/"
 	]
 }

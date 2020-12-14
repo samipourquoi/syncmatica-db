@@ -4,3 +4,4 @@ node_modules/
 .vscode/
 syncmatica-db.iml
 tsconfig.tsbuildinfo
+syncmatica.db
